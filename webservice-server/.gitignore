@@ -1,0 +1,10 @@
+/bin/
+/config
+/target/
+/config/
+.classpath
+.project
+.settings
+.idea
+data.sql
+.iml
