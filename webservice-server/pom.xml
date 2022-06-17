@@ -16,7 +16,7 @@
     <properties>
         <jdk.version>1.8</jdk.version>
         <!--alibaba json-->
-        <alibaba-json.version>1.2.47</alibaba-json.version>
+        <alibaba-json.version>1.2.83</alibaba-json.version>
     </properties>
 
     <dependencies>
